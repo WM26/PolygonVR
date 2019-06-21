@@ -832,3 +832,82 @@ LogInit: Object subsystem initialized
 [2019.06.21-05.07.01:700][905]SourceControl: fatal: E:/UE_4.19/Engine/Content: 'E:/UE_4.19/Engine/Content' is outside repository
 [2019.06.21-05.07.01:815][905]EditorErrors: Warning: 没有要迁入的资源！
 [2019.06.21-05.07.04:704][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-06.04.55:991][391]SourceControl: 源码控制已禁用
+[2019.06.21-06.04.55:991][391]LogSlate: Window '源码控制登陆' being destroyed
+[2019.06.21-06.05.01:119][734]LogSlate: Window '源码控制登陆' being destroyed
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a48257ffe8 [can pipeline])
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 1 (Re-using existing connection! (#92) with host datarouter.ol.epicgames.com)
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (172.245.126.217) port 443 (#92))
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 3 (upload completely sent off: 357 out of 357 bytes)
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10053)
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 6 (Closing connection 92)
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBF4E86C6-4A62-BBE0-A156-B7AF555129C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=213b3eb84b0a0df8228c1db9487aa4ec%7C6891fa7a3e204daea063e5cb9ac5623d%7Cd14d90d3-2c7e-4e2d-bd85-c556ff2b436a&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 8 (  Trying 172.245.126.217...)
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 9 (connect to 172.245.126.217 port 443 failed: Timed out)
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 10 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.06.21-07.00.51:056][282]LogHttp: Warning: 000001A4A8C21480: libcurl info message cache 11 (Closing connection 93)
+[2019.06.21-07.03.12:393][706]LogHttp: Warning: 000001A4A8C20400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.06.21-07.03.12:393][706]LogHttp: Warning: 000001A4A8C20400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.21-07.03.12:393][706]LogHttp: Warning: 000001A4A8C20400: libcurl info message cache 1 (  Trying 172.245.126.217...)
+[2019.06.21-07.03.12:393][706]LogHttp: Warning: 000001A4A8C20400: libcurl info message cache 2 (connect to 172.245.126.217 port 443 failed: Timed out)
+[2019.06.21-07.03.12:393][706]LogHttp: Warning: 000001A4A8C20400: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.06.21-07.03.12:393][706]LogHttp: Warning: 000001A4A8C20400: libcurl info message cache 4 (Closing connection 94)
+[2019.06.21-07.22.05:393][333]LogTemp: Repeating last play command: 选中的视口
+[2019.06.21-07.22.05:408][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-07.22.05:409][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.21-07.22.05:409][333]PIE: New page: PIE会话: FirstPersonExampleMap (2019年6月21日 下午11:22:05)
+[2019.06.21-07.22.05:409][333]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.21-07.22.05:426][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016945s)
+[2019.06.21-07.22.05:427][333]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.21-07.22.05:428][333]LogPlayLevel: PIE: World Init took: (0.001799s)
+[2019.06.21-07.22.05:428][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019033s)
+[2019.06.21-07.22.05:466][333]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.21-07.22.05:504][333]LogInit: FAudioDevice initialized.
+[2019.06.21-07.22.05:538][333]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.21-07.22.05:542][333]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.21-15.22.05
+[2019.06.21-07.22.05:542][333]LogWorld: Bringing up level for play took: 0.002574
+[2019.06.21-07.22.05:544][333]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap的‘在编辑器中播放’的起始时间-0.65
+[2019.06.21-07.22.05:544][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-07.22.07:768][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-07.22.07:807][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-07.22.10:862][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube23)
+[2019.06.21-07.22.11:426][886]Cmd: DELETE
+[2019.06.21-07.22.11:426][886]Cmd: ACTOR DELETE
+[2019.06.21-07.22.11:428][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-07.22.11:438][886]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2019.06.21-07.22.13:304][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2019.06.21-07.22.13:573][111]Cmd: DELETE
+[2019.06.21-07.22.13:573][111]Cmd: ACTOR DELETE
+[2019.06.21-07.22.13:575][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-07.22.13:586][111]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2019.06.21-07.22.14:068][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube22)
+[2019.06.21-07.22.14:148][166]Cmd: DELETE
+[2019.06.21-07.22.14:148][166]Cmd: ACTOR DELETE
+[2019.06.21-07.22.14:150][166]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-07.22.14:161][166]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2019.06.21-07.22.14:688][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2019.06.21-07.22.15:298][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2019.06.21-07.22.15:334][275]Cmd: DELETE
+[2019.06.21-07.22.15:334][275]Cmd: ACTOR DELETE
+[2019.06.21-07.22.15:336][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-07.22.15:346][275]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2019.06.21-07.22.16:213][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube25)
+[2019.06.21-07.22.16:370][378]Cmd: DELETE
+[2019.06.21-07.22.16:370][378]Cmd: ACTOR DELETE
+[2019.06.21-07.22.16:372][378]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-07.22.16:382][378]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2019.06.21-07.22.18:426][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-07.22.19:826][594]LogSlate: Window '保存内容' being destroyed
+[2019.06.21-07.22.20:217][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.21-07.22.20:441][594]LogSavePackage: Save=120.39ms
+[2019.06.21-07.22.20:441][594]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/FirstPersonExampleMapD5502FA24AC3917DB7343E872DA21219.tmp' to 'D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.21-07.22.20:446][594]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.21-07.22.20:476][594]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.423
+[2019.06.21-07.22.23:333][835]SourceControl: fatal: E:/UE_4.19/Engine/Content: 'E:/UE_4.19/Engine/Content' is outside repository
+[2019.06.21-07.22.37:680][835]LogSlate: Window '提交文件' being destroyed
+[2019.06.21-07.22.39:552][835]LogSourceControl: commit successful: [master 00c3a23] 删除了场景物体
+[2019.06.21-07.22.39:652][835]SourceControl: [master 00c3a23] 删除了场景物体
+[2019.06.21-07.22.39:652][835]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.06.21-07.22.39:688][835]SourceControl: Commited [master 00c3a23] 删除了场景物体.
