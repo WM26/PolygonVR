@@ -1,0 +1,834 @@
+﻿Log file open, 06/21/19 11:08:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PROFACE_测试
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1190864573) SRandInit(1190864573).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286082
+LogPluginManager: Warning: Plugin 'FlytekVoiceSDK' exists at '../../../Engine/Plugins/FlytekVoiceSDK/FlytekVoiceSDK.uplugin' and '../../../Engine/Plugins/FlytekVoiceSDK.uplugin' - second location will be ignored
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.473s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am BR13 (10.115.1.230:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal  -epicusername="他大舅他二舅都是他舅." -epicuserid=6891fa7a3e204daea063e5cb9ac5623d -epiclocale=zh-CN
+LogInit: Base Directory: E:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.21-03.08.46:791][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.21-03.08.46:791][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.21-03.08.46:802][  0]LogInit: Computer: BR13
+[2019.06.21-03.08.46:802][  0]LogInit: User: Administrator
+[2019.06.21-03.08.46:802][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.21-03.08.46:802][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.21-03.08.46:802][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.21-03.08.46:802][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.21-03.08.46:802][  0]LogMemory: Process Physical Memory: 275.00 MB used, 275.00 MB peak
+[2019.06.21-03.08.46:802][  0]LogMemory: Process Virtual Memory: 264.77 MB used, 264.77 MB peak
+[2019.06.21-03.08.46:802][  0]LogMemory: Physical Memory: 11375.94 MB used,  4956.59 MB free, 16332.53 MB total
+[2019.06.21-03.08.46:802][  0]LogMemory: Virtual Memory: 4795.86 MB used,  4956.59 MB free, 134217728.00 MB total
+[2019.06.21-03.08.46:823][  0]LogInit: Overriding language with editor language configuration option (zh-CN).
+[2019.06.21-03.08.46:823][  0]LogInit: Overriding locale with editor locale configuration option (zh-CN).
+[2019.06.21-03.08.47:145][  0]LogStreaming: Display: Took  0.322s to EndInitTextLocalization.
+[2019.06.21-03.08.47:145][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.21-03.08.47:315][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.21-03.08.47:316][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.21-03.08.47:584][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.21-03.08.47:664][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.06.21-03.08.47:664][  0]LogD3D11RHI:       6052/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.21-03.08.47:667][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.21-03.08.47:667][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.21-03.08.47:668][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.21-03.08.47:683][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.21-03.08.47:684][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.21-03.08.47:684][  0]LogWindows: EnumDisplayDevices:
+[2019.06.21-03.08.47:685][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.06.21-03.08.47:686][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.06.21-03.08.47:687][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.06.21-03.08.47:688][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.06.21-03.08.47:689][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.21-03.08.47:689][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.06.21-03.08.47:689][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.21-03.08.47:689][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.21-03.08.47:689][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.06.21-03.08.47:741][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.06.21-03.08.47:741][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.06.21-03.08.47:741][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.21-03.08.47:762][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.21-03.08.47:773][  0]LogShaderCompilers: Guid format shader working directory is 56 characters bigger than the processId version (D:/PROFACE_测试/Intermediate/Shaders/WorkingDirectory/39096/).
+[2019.06.21-03.08.47:773][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator.CN-20170102NDHX/AppData/Local/Temp/UnrealShaderWorkingDir/35B0540549A038DC7AD8D68FCC55D718/'.
+[2019.06.21-03.08.48:065][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.21-03.08.48:078][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.21-03.08.48:092][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.21-03.08.48:105][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.21-03.08.48:121][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.21-03.08.48:138][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.21-03.08.48:156][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.21-03.08.48:170][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.21-03.08.48:177][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.21-03.08.48:192][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.06.21-03.08.48:208][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.06.21-03.08.48:222][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.06.21-03.08.48:238][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.06.21-03.08.48:252][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.06.21-03.08.48:267][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.06.21-03.08.48:290][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.06.21-03.08.48:290][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.06.21-03.08.48:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.21-03.08.48:305][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.21-03.08.48:342][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.21-03.08.48:354][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.21-03.08.48:367][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.21-03.08.48:382][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.21-03.08.48:397][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.21-03.08.48:411][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.21-03.08.48:411][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.21-03.08.48:559][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.21-03.08.48:559][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.21-03.08.48:559][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.21-03.08.49:298][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.21-03.08.49:378][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Administrator.CN-20170102NDHX/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.06.21-03.08.49:379][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator.CN-20170102NDHX/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.06.21-03.08.49:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/PROFACE_测试/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.21-03.08.49:379][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.21-03.08.49:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/PROFACE_测试/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.21-03.08.49:379][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.21-03.08.49:396][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.21-03.08.49:409][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator.CN-20170102NDHX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.21-03.08.49:409][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.21-03.08.49:409][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.21-03.08.49:420][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.21-03.08.49:421][  0]LogSlate: Using Freetype 2.6.0
+[2019.06.21-03.08.49:421][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.21-03.08.49:421][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.21-03.08.49:562][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2019.06.21-03.08.49:893][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.21-03.08.50:057][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.21-03.08.50:061][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.21-03.08.50:061][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.21-03.08.50:061][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.21-03.08.50:061][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.06.21-03.08.50:061][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.06.21-03.08.50:109][  0]LogNetVersion: PROFACE_测试 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2217335654)
+[2019.06.21-03.08.50:927][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 4 prioritized culture(s) in 0.208782 seconds
+[2019.06.21-03.08.50:934][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.06.21-03.08.50:934][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.06.21-03.08.50:934][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.21-03.08.52:923][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.21-03.08.52:967][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.21-03.08.53:506][  0]SourceControl: 源码控制已禁用
+[2019.06.21-03.08.53:507][  0]SourceControl: 源码控制已禁用
+[2019.06.21-03.08.53:529][  0]SourceControl: 源码控制已禁用
+[2019.06.21-03.08.53:551][  0]SourceControl: 源码控制已禁用
+[2019.06.21-03.08.54:104][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.21-03.08.54:320][  0]LogOcInput: OculusInput pre-init called
+[2019.06.21-03.08.54:465][  0]LogEngine: Initializing Engine...
+[2019.06.21-03.08.54:467][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.06.21-03.08.54:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.21-03.08.54:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.21-03.08.54:774][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.21-03.08.54:794][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.21-03.08.54:834][  0]LogInit: FAudioDevice initialized.
+[2019.06.21-03.08.54:967][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/Administrator.CN-20170102NDHX/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.06.21-03.08.54:979][  0]LogInit: Texture streaming: Enabled
+[2019.06.21-03.08.54:998][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.21-03.08.55:036][  0]LogInit: Transaction tracking system initialized
+[2019.06.21-03.08.55:073][  0]BlueprintLog: New page: 编辑器加载
+[2019.06.21-03.08.55:197][  0]LocalizationService: 本地化服务已被禁用
+[2019.06.21-03.08.55:621][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4f2564ac0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2019.06.21-03.08.55:624][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4f2564ac0, Size=88
+[2019.06.21-03.08.55:624][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4f2564ac0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_3:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2019.06.21-03.08.55:626][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4d4d7e840, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2019.06.21-03.08.55:843][  0]LogConsoleResponse: Display: 
+[2019.06.21-03.08.56:076][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.21-03.08.56:076][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.21-03.08.56:076][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.21-03.08.56:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.21-03.08.56:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.21-03.08.56:617][  0]LogFileCache: Scanning file cache for directory 'D:/PROFACE_测试/Content/' took 0.01s
+[2019.06.21-03.08.56:618][  0]SourceControl: 源码控制已禁用
+[2019.06.21-03.08.56:618][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.21-03.08.56:618][  0]LightingResults: New page: 光照构建
+[2019.06.21-03.08.56:621][  0]MapCheck: New page: 地图检测
+[2019.06.21-03.08.56:621][  0]LightingResults: New page: 光照构建
+[2019.06.21-03.08.56:635][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4f2564ac0, Size=88
+[2019.06.21-03.08.56:656][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4dbc8f648, Size=4, Default__BP_Sky_Sphere_C Function /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:ExecuteUbergraph_BP_Sky_Sphere
+[2019.06.21-03.08.56:670][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4dbc8f648, Size=4
+[2019.06.21-03.08.56:670][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4dbc8f648, Size=4, Default__BP_Sky_Sphere_C Function /Engine/Transient.REINST_BP_Sky_Sphere_C_5:ExecuteUbergraph_BP_Sky_Sphere
+[2019.06.21-03.08.56:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4dbc8da30, Size=4, Default__BP_Sky_Sphere_C Function /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:ExecuteUbergraph_BP_Sky_Sphere
+[2019.06.21-03.08.56:746][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.21-03.08.56:753][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.21-03.08.56:766][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4dbc8f648, Size=4
+[2019.06.21-03.08.56:766][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.21-03.08.56:819][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时52.397毫秒完成。
+[2019.06.21-03.08.56:819][  0]LogFileHelpers: Loading map 'Template_Default' took 0.201
+[2019.06.21-03.08.57:669][  0]LogCollectionManager: Loaded 0 collections in 0.001485 seconds
+[2019.06.21-03.08.57:801][  0]LogFileCache: Scanning file cache for directory 'D:/PROFACE_测试/Saved/Collections/' took 0.01s
+[2019.06.21-03.08.57:801][  0]LogFileCache: Scanning file cache for directory 'D:/PROFACE_测试/Content/Developers/Administrator/Collections/' took 0.01s
+[2019.06.21-03.08.57:801][  0]LogFileCache: Scanning file cache for directory 'D:/PROFACE_测试/Content/Collections/' took 0.01s
+[2019.06.21-03.08.57:801][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.21-03.08.57:810][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2454 classes and 561 folders.
+[2019.06.21-03.08.57:830][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.21-03.08.57:882][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.21-03.08.57:903][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.21-03.08.58:338][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.21-03.08.58:341][  0]LogSlate: Took 0.002927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.06.21-03.08.58:343][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.21-03.08.58:371][  0]LogSlate: Took 0.023759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.21-03.08.58:629][  0]LogRenderer: Reallocating scene render targets to support 1096x524 Format 10 NumSamples 1 (Frame:1).
+[2019.06.21-03.08.58:947][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.21-03.08.58:947][  0]LogLoad: (Engine Initialization) Total time: 15.97 seconds
+[2019.06.21-03.08.58:947][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.21-03.08.59:353][  0]LogContentStreaming: Texture pool size now 2000 MB
+[2019.06.21-03.08.59:370][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.21-03.09.11:957][ 38]LogAssetRegistry: Asset discovery search completed in 22.4182 seconds
+[2019.06.21-03.09.11:958][ 38]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.21-03.09.11:959][ 38]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2019.06.21-03.16.14:088][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.16.16:707][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.21-03.16.21:207][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.21-03.16.21:916][701]Cmd: DELETE
+[2019.06.21-03.16.21:916][701]Cmd: ACTOR DELETE
+[2019.06.21-03.16.22:114][701]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-03.16.22:146][701]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2019.06.21-03.16.23:454][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.16.23:502][831]LogActorFactory: Actor Factory created Cube
+[2019.06.21-03.16.23:832][860]LogActorFactory: Actor Factory created Cube
+[2019.06.21-03.16.31:683][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.16.34:382][862]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.21-03.16.34:433][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4923c3b00, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.06.21-03.16.34:460][862]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4923c3b00, Size=72
+[2019.06.21-03.16.34:461][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4e47244a0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.06.21-03.16.34:492][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4918917b0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.06.21-03.16.34:508][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4e46dd800, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.06.21-03.16.34:512][862]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4e46dd800, Size=256
+[2019.06.21-03.16.34:512][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4e46dd800, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_8:ExecuteUbergraph_FirstPersonProjectile
+[2019.06.21-03.16.34:515][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a492b09f00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.06.21-03.16.34:584][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4a8ff5c00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.06.21-03.16.34:594][862]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4a8ff5c00, Size=688
+[2019.06.21-03.16.34:594][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4a8c46b00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_10:ExecuteUbergraph_FirstPersonCharacter
+[2019.06.21-03.16.34:603][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a4a8c45000, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.06.21-03.16.34:630][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a492fc9360, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.06.21-03.16.34:633][862]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a492fc9360, Size=52
+[2019.06.21-03.16.34:633][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a492fc9360, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_12:ExecuteUbergraph_FirstPersonHUD
+[2019.06.21-03.16.34:647][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a492fcb9a8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.06.21-03.16.34:829][862]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.06.21-03.16.34:829][862]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.06.21-03.16.34:829][862]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.06.21-03.16.34:829][862]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.06.21-03.16.34:829][862]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.06.21-03.16.34:829][862]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.06.21-03.16.34:829][862]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.06.21-03.16.36:581][862]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
+[2019.06.21-03.16.36:582][862]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
+[2019.06.21-03.16.37:219][862]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
+[2019.06.21-03.16.37:219][862]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
+[2019.06.21-03.16.37:219][862]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
+[2019.06.21-03.16.37:219][862]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
+[2019.06.21-03.16.37:275][862]LogSkeletalMesh: Skeletal Mesh found in DDC [13.338000ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.06.21-03.16.37:351][862]LogSkeletalMesh: Skeletal Mesh found in DDC [18.484100ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.06.21-03.16.37:356][862]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.21-03.16.37:457][862]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4e47244a0, Size=72
+[2019.06.21-03.16.37:458][862]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4e46dd800, Size=256
+[2019.06.21-03.16.37:458][862]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a4a8c46b00, Size=688
+[2019.06.21-03.16.37:458][862]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a492fc9360, Size=52
+[2019.06.21-03.16.38:620][862]LogSlate: Window '保存内容' being destroyed
+[2019.06.21-03.16.38:648][862]Cmd: MAP LOAD FILE="D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.21-03.16.38:652][862]LightingResults: New page: 光照构建
+[2019.06.21-03.16.38:653][862]LoadErrors: New page: 正在加载地图： FirstPersonExampleMap.umap
+[2019.06.21-03.16.38:693][862]MapCheck: New page: 地图检测
+[2019.06.21-03.16.38:693][862]LightingResults: New page: 光照构建
+[2019.06.21-03.16.38:832][862]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.21-03.16.38:872][862]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.21-03.16.38:928][862]MapCheck: 地图检测完成：0个错误，0 个警告，用时56.343毫秒完成。
+[2019.06.21-03.16.38:928][862]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.296
+[2019.06.21-03.16.44:343][ 92]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.21-03.16.44:560][ 93]LogTemp: IPP ERROR: Illegal character in bundle ID
+[2019.06.21-03.16.44:560][ 93]LogTemp: Usage: iPhonePackager <Command> <GameName> [RPCCommand &| Switch]
+[2019.06.21-03.16.44:560][ 93]LogTemp: 
+[2019.06.21-03.16.44:560][ 93]LogTemp: Common commands:
+[2019.06.21-03.16.44:560][ 93]LogTemp:  ... RepackageIPA GameName
+[2019.06.21-03.16.44:560][ 93]LogTemp:  ... PackageIPA GameName
+[2019.06.21-03.16.44:561][ 93]LogTemp:  ... PackageApp GameName
+[2019.06.21-03.16.44:561][ 93]LogTemp:  ... Deploy PathToIPA
+[2019.06.21-03.16.44:561][ 93]LogTemp:  ... RepackageFromStage GameName
+[2019.06.21-03.16.44:561][ 93]LogTemp:  ... Devices
+[2019.06.21-03.16.44:561][ 93]LogTemp:  ... Validate
+[2019.06.21-03.16.44:561][ 93]LogTemp:  ... Install
+[2019.06.21-03.16.44:561][ 93]LogTemp: 
+[2019.06.21-03.16.44:561][ 93]LogTemp: Configuration switches:
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -stagedir <path>		  sets the directory to copy staged files from (defaults to none)
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -project <path>		  path to the project being packaged
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -provisioning <uuid>	  uuid of the provisioning selected
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -compress=fast|best|none  packaging compression level (defaults to none)
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -strip					strip symbols during packaging
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -config				   game configuration (e.g., Shipping, Development, etc...)
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -distribution			 packaging for final distribution
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -createstub			   packaging stub IPA for later repackaging
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -mac <MacName>			overrides the machine to use for any Mac operations
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -arch <Architecture>	  sets the architecture to use (blank for default, -simulator for simulator builds)
+[2019.06.21-03.16.44:561][ 93]LogTemp: 	 -device <DeviceID>		sets the device to install the IPA on
+[2019.06.21-03.16.44:561][ 93]LogTemp: 
+[2019.06.21-03.16.44:561][ 93]LogTemp: Commands: RPC, Clean
+[2019.06.21-03.16.44:561][ 93]LogTemp:   StageMacFiles, GetIPA, Deploy, Install, Uninstall
+[2019.06.21-03.16.44:561][ 93]LogTemp: 
+[2019.06.21-03.16.44:561][ 93]LogTemp: RPC Commands: SetExec, InstallProvision, MakeApp, DeleteIPA, Copy, Kill, Strip, Zip, GenDSYM
+[2019.06.21-03.16.44:561][ 93]LogTemp: 
+[2019.06.21-03.16.44:561][ 93]LogTemp: Sample commandlines:
+[2019.06.21-03.16.44:561][ 93]LogTemp:  ... iPhonePackager Deploy UDKGame Release
+[2019.06.21-03.16.44:561][ 93]LogTemp:  ... iPhonePackager RPC SwordGame Shipping MakeApp
+[2019.06.21-03.16.53:220][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2019.06.21-03.16.55:431][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.16.57:934][  7]LogRenderer: Reallocating scene render targets to support 1336x924 Format 10 NumSamples 1 (Frame:1).
+[2019.06.21-03.17.01:535][186]LogSlate: Window '颜色选择器' being destroyed
+[2019.06.21-03.17.04:496][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2019.06.21-03.17.06:045][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.17.16:997][  4]LogSlate: Window '颜色选择器' being destroyed
+[2019.06.21-03.17.19:285][113]LogSlate: Window '颜色选择器' being destroyed
+[2019.06.21-03.17.23:924][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2019.06.21-03.17.28:921][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2019.06.21-03.17.32:256][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2019.06.21-03.17.33:381][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.17.33:460][895]LogTemp: Repeating last play command: 选中的视口
+[2019.06.21-03.17.33:490][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-03.17.33:504][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.21-03.17.33:573][895]PIE: New page: PIE会话: FirstPersonExampleMap (2019年6月21日 下午7:17:33)
+[2019.06.21-03.17.33:574][895]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.21-03.17.33:654][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080504s)
+[2019.06.21-03.17.33:655][895]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.21-03.17.33:655][895]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2019.06.21-03.17.33:655][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.081722s)
+[2019.06.21-03.17.33:691][895]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.21-03.17.33:722][895]LogInit: FAudioDevice initialized.
+[2019.06.21-03.17.33:784][895]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.21-03.17.33:806][895]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.21-11.17.33
+[2019.06.21-03.17.33:851][895]LogWorld: Bringing up level for play took: 0.063943
+[2019.06.21-03.17.33:997][895]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2019.06.21-03.17.33:999][895]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap的‘在编辑器中播放’的起始时间-0.195
+[2019.06.21-03.17.33:999][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-03.17.38:374][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-03.17.38:446][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-03.17.42:670][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2019.06.21-03.17.47:555][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.17.51:134][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.18.00:252][249]LogSlate: Window '颜色选择器' being destroyed
+[2019.06.21-03.18.06:835][575]LogSlate: Window '颜色选择器' being destroyed
+[2019.06.21-03.18.08:525][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2019.06.21-03.18.10:009][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.18.24:895][459]LogSlate: Window '颜色选择器' being destroyed
+[2019.06.21-03.18.29:068][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.18.30:690][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.21-03.18.30:934][768]LogSavePackage: Save=199.73ms
+[2019.06.21-03.18.30:934][768]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/FirstPersonExampleMapD1A753A140ACD0CF6A95ACA849BCFB38.tmp' to 'D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.21-03.18.30:941][768]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.21-03.18.30:973][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.06.21-03.18.32:275][768]LogSavePackage: Save=1287.90ms
+[2019.06.21-03.18.32:275][768]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/FirstPersonExampleMap_BuiltData89EE5BB8436C3C7CC9B774BE7F22B9B1.tmp' to 'D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.06.21-03.18.32:277][768]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.06.21-03.18.33:721][850]LogSlate: Window 'CubeMaterialOverride_Inst_Inst1*' being destroyed
+[2019.06.21-03.18.33:741][850]LogSlate: Window 'CubeMaterialOverride_Inst_Inst1*' being destroyed
+[2019.06.21-03.18.33:836][850]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2019.06.21-03.18.35:223][850]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.21-03.18.35:226][850]TextureStreamingBuild: Display: Compiling optional shaders took 1.424 seconds.
+[2019.06.21-03.18.35:380][850]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride_Inst, compiling. 
+[2019.06.21-03.18.35:526][850]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.21-03.18.35:530][850]TextureStreamingBuild: Display: Compiling optional shaders took 0.153 seconds.
+[2019.06.21-03.18.35:652][850]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride_Inst_Inst, compiling. 
+[2019.06.21-03.18.35:798][850]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.21-03.18.35:801][850]TextureStreamingBuild: Display: Compiling optional shaders took 0.152 seconds.
+[2019.06.21-03.18.35:916][850]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride_Inst_Inst1, compiling. 
+[2019.06.21-03.18.36:053][850]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.21-03.18.36:055][850]TextureStreamingBuild: Display: Compiling optional shaders took 0.142 seconds.
+[2019.06.21-03.18.36:810][901]LogSlate: Window '项目设置' being destroyed
+[2019.06.21-03.18.36:829][901]LogSlate: Window '项目设置' being destroyed
+[2019.06.21-03.21.15:792][799]LogSourceControl: Attempting 'p4 clients -u Administrator'
+[2019.06.21-03.21.22:587][392]LogSourceControl: Attempting 'p4 clients -u Administrator'
+[2019.06.21-03.23.55:272][689]LogSourceControl: Attempting 'p4 client -o '
+[2019.06.21-03.23.55:290][690]SourceControl: Error: Empty identifier not allowed.
+
+[2019.06.21-03.23.55:290][690]SourceControl: Error: 不能连接到源码控制。 请检查您的设置及连接，然后重试。
+[2019.06.21-03.24.08:686][675]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.24.08:686][675]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.06.21-03.24.08:686][675]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.24.08:686][675]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.06.21-03.24.08:693][675]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.24.08:693][675]LogWindows: Warning: URL: C:\Users\Administrator.CN-20170102NDHX\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.06.21-03.24.08:693][675]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.24.08:693][675]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.06.21-03.24.08:693][675]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.24.08:693][675]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.06.21-03.24.08:694][675]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.24.08:694][675]LogWindows: Warning: URL: C:\Users\Administrator.CN-20170102NDHX\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.06.21-03.24.08:695][675]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.24.08:695][675]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.06.21-03.24.12:875][988]LogSourceControl: Attempting 'p4 clients -u Administrator'
+[2019.06.21-03.28.31:258][794]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2019.06.21-03.28.31:260][794]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Meshes/CubeMaterialOverride] ([1] browsable assets)...
+[2019.06.21-03.28.31:291][794]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride]
+[2019.06.21-03.28.31:291][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/CubeMaterialOverride]
+[2019.06.21-03.28.31:291][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/CubeMaterialOverride" FILE="D:/PROFACE_测试/Saved/Autosaves/Game/FirstPerson/Meshes/CubeMaterialOverride_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.06.21-03.28.31:344][794]LogSavePackage: Save=15.98ms
+[2019.06.21-03.28.31:344][794]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/CubeMaterialOverride_Auto185D45AFC4DE41A1BE1E02C99EF673EC7.tmp' to 'D:/PROFACE_测试/Saved/Autosaves/Game/FirstPerson/Meshes/CubeMaterialOverride_Auto1.uasset'
+[2019.06.21-03.28.31:345][794]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Saved/Autosaves/Game/FirstPerson/Meshes/CubeMaterialOverride_Auto1.uasset
+[2019.06.21-03.28.31:345][794]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst] ([1] browsable assets)...
+[2019.06.21-03.28.31:372][794]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FirstPerson/Meshes/CubeMaterialOverride_Inst.CubeMaterialOverride_Inst]
+[2019.06.21-03.28.31:372][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst]
+[2019.06.21-03.28.31:387][794]LogSavePackage: Save=13.21ms
+[2019.06.21-03.28.31:388][794]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/CubeMaterialOverride_Inst_Auto14942DA664D29C0E12DE0FBA371FD9241.tmp' to 'D:/PROFACE_测试/Saved/Autosaves/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Auto1.uasset'
+[2019.06.21-03.28.31:389][794]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Saved/Autosaves/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Auto1.uasset
+[2019.06.21-03.28.31:389][794]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst] ([1] browsable assets)...
+[2019.06.21-03.28.31:418][794]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst.CubeMaterialOverride_Inst_Inst]
+[2019.06.21-03.28.31:418][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst]
+[2019.06.21-03.28.31:441][794]LogSavePackage: Save=14.63ms
+[2019.06.21-03.28.31:441][794]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/CubeMaterialOverride_Inst_Inst_A49110E254AA65A7B5202A3A106E11CBC.tmp' to 'D:/PROFACE_测试/Saved/Autosaves/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst_Auto1.uasset'
+[2019.06.21-03.28.31:442][794]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Saved/Autosaves/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst_Auto1.uasset
+[2019.06.21-03.28.31:443][794]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1] ([1] browsable assets)...
+[2019.06.21-03.28.31:469][794]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1.CubeMaterialOverride_Inst_Inst1]
+[2019.06.21-03.28.31:469][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1]
+[2019.06.21-03.28.31:491][794]LogSavePackage: Save=14.79ms
+[2019.06.21-03.28.31:491][794]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/CubeMaterialOverride_Inst_Inst1_E8A9F8E74C0575449E20C587954A7ACE.tmp' to 'D:/PROFACE_测试/Saved/Autosaves/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1_Auto1.uasset'
+[2019.06.21-03.28.31:492][794]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Saved/Autosaves/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1_Auto1.uasset
+[2019.06.21-03.28.31:492][794]LogFileHelpers: Auto-saving content packages took 0.233
+[2019.06.21-03.28.58:535][928]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.28.58:535][928]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.06.21-03.28.58:535][928]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.28.58:535][928]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.06.21-03.28.58:535][928]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.28.58:536][928]LogWindows: Warning: URL: C:\Users\Administrator.CN-20170102NDHX\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.06.21-03.28.58:536][928]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.28.58:536][928]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.06.21-03.28.58:536][928]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.28.58:536][928]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.06.21-03.28.58:537][928]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.28.58:537][928]LogWindows: Warning: URL: C:\Users\Administrator.CN-20170102NDHX\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.06.21-03.28.58:537][928]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.28.58:537][928]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.06.21-03.29.17:379][885]LogWindows: Warning: CreateProc failed: 拒绝访问。 (0x00000005)
+[2019.06.21-03.29.17:379][885]LogWindows: Warning: URL: D:\PROFACE_测试\.git version
+[2019.06.21-03.29.17:479][893]LogWindows: Warning: CreateProc failed: 拒绝访问。 (0x00000005)
+[2019.06.21-03.29.17:479][893]LogWindows: Warning: URL: D:\PROFACE_测试\.git version
+[2019.06.21-03.29.17:479][893]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2019.06.21-03.29.34:542][307]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.29.34:542][307]LogWindows: Warning: URL: D:\PROFACE_测试\.git\git.exe version
+[2019.06.21-03.29.34:607][313]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.29.34:607][313]LogWindows: Warning: URL: D:\PROFACE_测试\.git\git.exe version
+[2019.06.21-03.29.34:607][313]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2019.06.21-03.29.54:087][879]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.29.54:087][879]LogWindows: Warning: URL: D:\PROFACE_测试\.git.exe\ version
+[2019.06.21-03.29.54:175][887]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.29.54:175][887]LogWindows: Warning: URL: D:\PROFACE_测试\.git.exe\ version
+[2019.06.21-03.29.54:175][887]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2019.06.21-03.30.00:290][373]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.30.00:290][373]LogWindows: Warning: URL: D:\PROFACE_测试\.git.exe version
+[2019.06.21-03.30.01:586][472]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.30.01:586][472]LogWindows: Warning: URL: D:\PROFACE_测试\.git.exe version
+[2019.06.21-03.30.01:586][472]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2019.06.21-03.30.15:829][570]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.30.15:829][570]LogWindows: Warning: URL: D:\PROFACE_测试\.git.exe\ version
+[2019.06.21-03.30.15:919][578]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.30.15:919][578]LogWindows: Warning: URL: D:\PROFACE_测试\.git.exe\ version
+[2019.06.21-03.30.15:919][578]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2019.06.21-03.30.22:119][ 28]LogWindows: Warning: CreateProc failed: 拒绝访问。 (0x00000005)
+[2019.06.21-03.30.22:119][ 28]LogWindows: Warning: URL: D:\PROFACE_测试\.git\ version
+[2019.06.21-03.30.22:239][ 38]LogWindows: Warning: CreateProc failed: 拒绝访问。 (0x00000005)
+[2019.06.21-03.30.22:239][ 38]LogWindows: Warning: URL: D:\PROFACE_测试\.git\ version
+[2019.06.21-03.30.22:239][ 38]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2019.06.21-03.31.07:484][603]LogSlate: Took 0.026940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.21-03.31.19:165][608]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.31.19:165][608]LogWindows: Warning: URL: D:\Git\bin\git.exe\ version
+[2019.06.21-03.31.19:227][613]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.06.21-03.31.19:227][613]LogWindows: Warning: URL: D:\Git\bin\git.exe\ version
+[2019.06.21-03.31.19:227][613]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2019.06.21-03.31.25:117][951]LogSlate: Window '源码控制登陆' being destroyed
+[2019.06.21-03.40.57:583][358]LogSlate: Window '保存内容' being destroyed
+[2019.06.21-03.40.57:832][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/CubeMaterialOverride" FILE="D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" SILENT=true
+[2019.06.21-03.40.57:849][358]LogSavePackage: Save=7.01ms
+[2019.06.21-03.40.57:849][358]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/CubeMaterialOverride2C0520C148AA14E3C5B6D69922B77575.tmp' to 'D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset'
+[2019.06.21-03.40.57:859][358]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset
+[2019.06.21-03.40.57:900][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst" FILE="D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride_Inst.uasset" SILENT=true
+[2019.06.21-03.40.57:916][358]LogSavePackage: Save=13.72ms
+[2019.06.21-03.40.57:916][358]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/CubeMaterialOverride_InstB1C563F1453262EAFF1C48B8BBC35632.tmp' to 'D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride_Inst.uasset'
+[2019.06.21-03.40.57:922][358]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride_Inst.uasset
+[2019.06.21-03.40.58:346][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst" FILE="D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst.uasset" SILENT=true
+[2019.06.21-03.40.58:362][358]LogSavePackage: Save=13.80ms
+[2019.06.21-03.40.58:362][358]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/CubeMaterialOverride_Inst_Inst12990BFD4B9D878EFC7418B958A6D5F2.tmp' to 'D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst.uasset'
+[2019.06.21-03.40.58:365][358]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst.uasset
+[2019.06.21-03.40.58:756][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1" FILE="D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1.uasset" SILENT=true
+[2019.06.21-03.40.58:774][358]LogSavePackage: Save=15.80ms
+[2019.06.21-03.40.58:774][358]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/CubeMaterialOverride_Inst_Inst1CE995C424E9F41813CEECAB11386913A.tmp' to 'D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1.uasset'
+[2019.06.21-03.40.58:776][358]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1.uasset
+[2019.06.21-03.41.07:179][832]SourceControl: fatal: E:/UE_4.19/Engine/Content: 'E:/UE_4.19/Engine/Content' is outside repository
+[2019.06.21-03.41.31:127][832]LogSlate: Window '提交文件' being destroyed
+[2019.06.21-03.41.32:475][832]LogSourceControl: commit successful: [master (root-commit) 0521430] 朱伟奇提交的初始内容
+[2019.06.21-03.41.32:572][832]SourceControl: [master (root-commit) 0521430] 朱伟奇提交的初始内容
+[2019.06.21-03.41.32:572][832]SourceControl:  7 files changed, 0 insertions(+), 0 deletions(-)
+[2019.06.21-03.41.32:572][832]SourceControl:  create mode 100644 Content/FirstPerson/Meshes/BaseMaterial.uasset
+[2019.06.21-03.41.32:572][832]SourceControl:  create mode 100644 Content/FirstPerson/Meshes/CubeMaterialOverride.uasset
+[2019.06.21-03.41.32:572][832]SourceControl:  create mode 100644 Content/FirstPerson/Meshes/CubeMaterialOverride_Inst.uasset
+[2019.06.21-03.41.32:572][832]SourceControl:  create mode 100644 Content/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst.uasset
+[2019.06.21-03.41.32:572][832]SourceControl:  create mode 100644 Content/FirstPerson/Meshes/CubeMaterialOverride_Inst_Inst1.uasset
+[2019.06.21-03.41.32:572][832]SourceControl:  create mode 100644 Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset
+[2019.06.21-03.41.32:572][832]SourceControl:  create mode 100644 Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset
+[2019.06.21-03.41.32:605][832]SourceControl: Commited [master (root-commit) 0521430] 朱伟奇提交的初始内容.
+[2019.06.21-03.55.37:350][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2019.06.21-03.55.38:222][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.21-03.55.39:324][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2019.06.21-03.55.41:768][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube23)
+[2019.06.21-03.55.45:817][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-03.55.49:383][711]LogSlate: Window '保存内容' being destroyed
+[2019.06.21-03.55.49:902][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.21-03.55.50:044][711]LogSavePackage: Save=118.60ms
+[2019.06.21-03.55.50:044][711]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/FirstPersonExampleMap9945D814462041A40B2947A6991BE1A9.tmp' to 'D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.21-03.55.50:051][711]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.21-03.55.50:077][711]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.482
+[2019.06.21-03.55.52:808][915]SourceControl: fatal: E:/UE_4.19/Engine/Content: 'E:/UE_4.19/Engine/Content' is outside repository
+[2019.06.21-03.56.05:004][915]LogSlate: Window '提交文件' being destroyed
+[2019.06.21-03.56.06:640][915]LogSourceControl: commit successful: [master da852c4] 朱伟奇提交的版本2
+[2019.06.21-03.56.06:735][915]SourceControl: [master da852c4] 朱伟奇提交的版本2
+[2019.06.21-03.56.06:735][915]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.06.21-03.56.06:735][915]SourceControl:  create mode 100644 Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.21-03.56.06:773][915]SourceControl: Commited [master da852c4] 朱伟奇提交的版本2.
+[2019.06.21-04.42.15:271][313]LogSlate: Window '源码控制登陆' being destroyed
+[2019.06.21-04.49.01:351][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2019.06.21-04.49.02:640][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2019.06.21-04.49.06:692][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.49.08:927][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2019.06.21-04.49.13:319][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.49.15:440][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2019.06.21-04.49.17:910][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.49.19:460][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2019.06.21-04.49.23:503][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.49.27:901][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.49.27:977][656]LogTemp: Repeating last play command: 选中的视口
+[2019.06.21-04.49.27:995][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-04.49.27:995][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.21-04.49.27:995][656]PIE: New page: PIE会话: FirstPersonExampleMap (2019年6月21日 下午8:49:27)
+[2019.06.21-04.49.27:995][656]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.21-04.49.28:012][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017023s)
+[2019.06.21-04.49.28:013][656]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.21-04.49.28:013][656]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2019.06.21-04.49.28:013][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018097s)
+[2019.06.21-04.49.28:044][656]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.21-04.49.28:080][656]LogInit: FAudioDevice initialized.
+[2019.06.21-04.49.28:118][656]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.21-04.49.28:120][656]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.21-12.49.28
+[2019.06.21-04.49.28:121][656]LogWorld: Bringing up level for play took: 0.001901
+[2019.06.21-04.49.28:122][656]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap的‘在编辑器中播放’的起始时间-0.073
+[2019.06.21-04.49.28:122][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-04.49.29:806][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-04.49.29:839][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.21-04.49.31:334][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.49.32:498][987]LogSlate: Window '保存内容' being destroyed
+[2019.06.21-04.49.32:765][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.21-04.49.32:906][987]LogSavePackage: Save=114.03ms
+[2019.06.21-04.49.32:906][987]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/FirstPersonExampleMap1A339D2D47D125AD404700AA503B93E7.tmp' to 'D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.21-04.49.32:910][987]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.21-04.49.32:955][987]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.252
+[2019.06.21-04.49.35:446][195]SourceControl: fatal: E:/UE_4.19/Engine/Content: 'E:/UE_4.19/Engine/Content' is outside repository
+[2019.06.21-04.49.48:154][195]LogSlate: Window '提交文件' being destroyed
+[2019.06.21-04.49.51:546][195]LogSourceControl: commit successful: [master cc592fe] 朱伟奇第三次提交的版本
+[2019.06.21-04.49.51:710][195]SourceControl: [master cc592fe] 朱伟奇第三次提交的版本
+[2019.06.21-04.49.51:710][195]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2019.06.21-04.49.51:710][195]SourceControl:  create mode 100644 Content/FirstPersonBP/FirstPersonOverview.uasset
+[2019.06.21-04.49.51:710][195]SourceControl:  create mode 100644 Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.06.21-04.49.51:747][195]SourceControl: Commited [master cc592fe] 朱伟奇第三次提交的版本.
+[2019.06.21-04.52.48:397][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube24)
+[2019.06.21-04.52.49:323][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube27)
+[2019.06.21-04.52.49:823][281]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube14)
+[2019.06.21-04.52.50:854][370]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube26)
+[2019.06.21-04.52.51:807][439]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube12)
+[2019.06.21-04.52.53:024][546]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube13)
+[2019.06.21-04.52.53:678][602]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube25)
+[2019.06.21-04.52.58:005][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.52.59:338][992]LogSlate: Window '保存内容' being destroyed
+[2019.06.21-04.52.59:621][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.21-04.52.59:787][992]LogSavePackage: Save=153.67ms
+[2019.06.21-04.52.59:787][992]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/FirstPersonExampleMap39E1462147D48CCFA69484B6545BD539.tmp' to 'D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.21-04.52.59:790][992]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.21-04.52.59:809][992]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.253
+[2019.06.21-04.53.02:071][145]SourceControl: fatal: E:/UE_4.19/Engine/Content: 'E:/UE_4.19/Engine/Content' is outside repository
+[2019.06.21-04.53.15:994][145]LogSlate: Window '提交文件' being destroyed
+[2019.06.21-04.53.17:446][145]LogSourceControl: commit successful: [master 5f25057] 朱伟奇第四次提交的版本
+[2019.06.21-04.53.17:530][145]SourceControl: [master 5f25057] 朱伟奇第四次提交的版本
+[2019.06.21-04.53.17:530][145]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.06.21-04.53.17:566][145]SourceControl: Commited [master 5f25057] 朱伟奇第四次提交的版本.
+[2019.06.21-04.55.06:374][ 99]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.06.21-04.55.06:540][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.55.07:270][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.21-04.55.09:133][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube32)
+[2019.06.21-04.55.11:220][495]Cmd: DELETE
+[2019.06.21-04.55.11:220][495]Cmd: ACTOR DELETE
+[2019.06.21-04.55.11:224][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-04.55.11:224][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-04.55.11:224][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-04.55.11:235][495]LogEditorActor: Deleted 3 Actors (0.015 secs)
+[2019.06.21-04.55.11:916][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube29)
+[2019.06.21-04.55.12:080][579]Cmd: DELETE
+[2019.06.21-04.55.12:080][579]Cmd: ACTOR DELETE
+[2019.06.21-04.55.12:082][579]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-04.55.12:093][579]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2019.06.21-04.55.13:483][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.55.14:589][718]LogSlate: Window '保存内容' being destroyed
+[2019.06.21-04.55.14:644][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.55.14:804][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.55.14:883][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.21-04.55.15:032][718]LogSavePackage: Save=116.62ms
+[2019.06.21-04.55.15:033][718]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/FirstPersonExampleMapDAAA289E448CA1C6D28D45937EA1D439.tmp' to 'D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.21-04.55.15:036][718]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.21-04.55.15:059][718]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.240
+[2019.06.21-04.55.17:162][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.55.17:859][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.06.21-04.55.19:332][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.55.20:641][195]SourceControl: fatal: E:/UE_4.19/Engine/Content: 'E:/UE_4.19/Engine/Content' is outside repository
+[2019.06.21-04.55.20:775][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.55.23:799][195]LogSlate: Window '提交文件' being destroyed
+[2019.06.21-04.58.27:926][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube27)
+[2019.06.21-04.58.30:959][796]Cmd: DELETE
+[2019.06.21-04.58.30:960][796]Cmd: ACTOR DELETE
+[2019.06.21-04.58.30:961][796]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.21-04.58.30:973][796]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2019.06.21-04.58.34:089][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2019.06.21-04.58.36:606][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.58.37:601][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2019.06.21-04.58.38:243][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-04.58.42:559][704]LogSlate: Window '保存内容' being destroyed
+[2019.06.21-04.58.42:624][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.58.42:758][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.58.42:828][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.21-04.58.42:955][704]LogSavePackage: Save=113.36ms
+[2019.06.21-04.58.42:955][704]LogSavePackage: Moving 'D:/PROFACE_测试/Saved/FirstPersonExampleMap5A191B974F610CF4B4CF7AA115BD11D1.tmp' to 'D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.21-04.58.42:959][704]LogSavePackage: Display: Finished SavePackage D:/PROFACE_测试/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.21-04.58.42:982][704]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.213
+[2019.06.21-04.58.44:085][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.58.45:898][885]SourceControl: fatal: E:/UE_4.19/Engine/Content: 'E:/UE_4.19/Engine/Content' is outside repository
+[2019.06.21-04.58.46:038][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.58.58:412][885]LogSlate: Window '提交文件' being destroyed
+[2019.06.21-04.58.58:467][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.58.58:619][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-04.58.59:700][885]LogSourceControl: commit successful: [master f9f74e2] 朱伟奇第五次提交的版本
+[2019.06.21-04.58.59:797][885]SourceControl: [master f9f74e2] 朱伟奇第五次提交的版本
+[2019.06.21-04.58.59:797][885]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.06.21-04.58.59:833][885]SourceControl: Commited [master f9f74e2] 朱伟奇第五次提交的版本.
+[2019.06.21-04.59.43:291][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-05.07.00:272][814]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.21-05.07.01:700][905]SourceControl: fatal: E:/UE_4.19/Engine/Content: 'E:/UE_4.19/Engine/Content' is outside repository
+[2019.06.21-05.07.01:815][905]EditorErrors: Warning: 没有要迁入的资源！
+[2019.06.21-05.07.04:704][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
